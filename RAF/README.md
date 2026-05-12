@@ -1,6 +1,6 @@
 # RAF
 
-This repository contains a cleaned public-facing subset of the RAF project focused only on RAF runtime and experiment execution.
+This repository contains the RAF project.
 
 Included:
 
@@ -10,16 +10,6 @@ Included:
 - `source_config.example.json` example source manifest
 - `requirements.txt` minimal runtime dependencies
 - `pyproject.toml` package metadata and CLI entry points
-
-Excluded on purpose:
-
-- `query_builder/`
-- `source_builder/`
-- `tests/`
-- `results/`
-- dataset-specific PowerShell wrappers
-- analysis / comparison / summarization scripts
-- bundled third-party fair clustering repository
 
 ## Layout
 
