@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+pyarrow
+
+# Optional: required by incremental_hybrid
+hnswlib

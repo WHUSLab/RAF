@@ -1,0 +1,17 @@
+{
+  "sources": [
+    {
+      "name": "source_01",
+      "path": "./data/sources/source_01.parquet",
+      "cost": 1.0,
+      "feature_col": "embedding",
+      "sensitive_col": "is_english_name",
+      "extra_cols": [
+        "source_id",
+        "group_label"
+      ],
+      "sampler_mode": "random",
+      "with_replacement": false
+    }
+  ]
+}
