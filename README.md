@@ -200,7 +200,7 @@ Processed datasets will be released separately.
 
 | Dataset | RAF-ready query/source files | Status |
 | --- | --- | --- |
-| SciSciNet-v2 | `TBD` | Placeholder |
+| SciSciNet-v2 | `https://huggingface.co/datasets/pengyueli/RAF_SciSciNet` | Placeholder |
 | Folktables | `TBD` | Placeholder |
 | FairFace | `TBD` | Placeholder |
 | Argoverse 2 | `TBD` | Placeholder |
