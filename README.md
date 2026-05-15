@@ -198,12 +198,12 @@ The experiments in the RAF paper are designed around multi-modal datasets. Raw d
 
 Processed datasets will be released separately.
 
-| Dataset | RAF-ready query/source files | Status |
+| Dataset | RAF-ready query/source files | 
 | --- | --- | --- |
-| SciSciNet-v2 | https://huggingface.co/datasets/pengyueli/RAF_SciSciNet | Placeholder |
-| Folktables | `TBD` | Placeholder |
-| FairFace | https://huggingface.co/datasets/pengyueli/RAF_FairFace | Placeholder |
-| Argoverse 2 | `TBD` | Placeholder |
+| SciSciNet-v2 | https://huggingface.co/datasets/pengyueli/RAF_SciSciNet |
+| Folktables | https://huggingface.co/datasets/pengyueli/RAF_FolkTables |
+| FairFace | https://huggingface.co/datasets/pengyueli/RAF_FairFace | 
+| Argoverse 2 | https://huggingface.co/datasets/pengyueli/RAF_Argoverse | 
 
 ---
 
