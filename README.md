@@ -202,7 +202,7 @@ Processed datasets will be released separately.
 | --- | --- | --- |
 | SciSciNet-v2 | https://huggingface.co/datasets/pengyueli/RAF_SciSciNet | Placeholder |
 | Folktables | `TBD` | Placeholder |
-| FairFace | `TBD` | Placeholder |
+| FairFace | https://huggingface.co/datasets/pengyueli/RAF_FairFace | Placeholder |
 | Argoverse 2 | `TBD` | Placeholder |
 
 ---
