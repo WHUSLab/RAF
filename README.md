@@ -341,24 +341,12 @@ Install the external solver's dependencies separately and follow its license.
 
 ## Citation
 
-If you use RAF in your research, please cite the corresponding paper.
 
-```bibtex
-@article{raf2026,
-  title   = {Retrieval-Augmented Dataset Assembly for Fair Clustering},
-  author  = {Anonymous Authors},
-  journal = {TBD},
-  year    = {2026}
-}
-```
-
-Please also cite the original datasets used in your experiments according to their official citation instructions.
+Please also the original datasets used in your experiments according to their official citation instructions.
 
 ---
 
 ## License
-
-The license for this repository is `TBD`.
 
 Raw datasets and external solvers are governed by their own licenses and terms of use.
 
@@ -366,4 +354,4 @@ Raw datasets and external solvers are governed by their own licenses and terms o
 
 ## Contact
 
-For questions about RAF, please open an issue in this repository or contact the authors.
+For questions about RAF, please open an issue in this repository or contact the authors (pengyueli@whu.edu.cn).
